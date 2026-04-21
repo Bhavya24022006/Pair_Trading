@@ -112,5 +112,5 @@ It is generally used to assess the historical performance of investments or to p
 
 ## Contributors
 
-- [Bhavya](https://github.com/Bhavya24022006) (Vibha Gupta)  
+- [Bhavya](https://github.com/Bhavya24022006) (Bhavya)  
  
